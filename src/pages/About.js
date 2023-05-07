@@ -1,9 +1,9 @@
-import logo from './images/taxfax-logo.png';
-import rene from './images/rene.png';
+import logo from '../images/taxfax-logo.png';
+import rene from '../images/rene.png';
 
 const About = () => {
     return (
-        <div className="grid place-items-center">
+        <div className="relative grid place-items-center">
             <h1 className="text-6xl font-black border-2 border-red-900">About Us</h1>
             <h1 className="text-5xl font-bold border-2 border-red-900">TaxFax</h1>
             <img src={logo} className="max-h-32" alt="TaxFax logo" />

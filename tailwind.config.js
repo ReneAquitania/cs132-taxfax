@@ -4,7 +4,20 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    screens: {
+      'md': '840px',
+    },
+    extend: {
+      colors: {
+        taxfaxblue: {
+          200: '#25c4e8',
+          300: '#01afdb',
+        },
+        taxfaxred: {
+          300: '#c52127',
+        },
+      },
+    },
   },
   plugins: [],
 }
