@@ -5,6 +5,7 @@ import Overview from './pages/Overview';
 import Data from './pages/Data';
 import Methods from './pages/Methods';
 import Results from './pages/Results';
+import PrivacyPolicy from './pages/PrivacyPolicy';
 
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
@@ -15,11 +16,12 @@ function App() {
         <Navbar />
         <div className="content min-w-full">
           <Routes>
-            <Route path="/overview" element={<Overview />}></Route>
-            <Route path="/data" element={<Data />}></Route>
-            <Route path="/methods" element={<Methods />}></Route>
-            <Route path="/results" element={<Results />}></Route>
-            <Route path="/about-us" element={<About />}></Route>
+            <Route path="/cs132-taxfax/overview" element={<Overview />}></Route>
+            <Route path="/cs132-taxfax/data" element={<Data />}></Route>
+            <Route path="/cs132-taxfax/methods" element={<Methods />}></Route>
+            <Route path="/cs132-taxfax/results" element={<Results />}></Route>
+            <Route path="/cs132-taxfax/about-us" element={<About />}></Route>
+            <Route path='cs132-taxfax/privacy-policy' element={<PrivacyPolicy />}></Route>
           </Routes>
         </div>
         <Footer/>

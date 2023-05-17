@@ -43,7 +43,7 @@ const Navbar = () => {
         <div className="min-w-full">
             <nav className="navbar bg-taxfaxblue-300 py-2.5">
                 <div className="flex justify-between items-center  mx-10 md:mr-10 h-16">
-                    <Link to="/" className="max-h-fit text-xl font-black">
+                    <Link to="/cs132-taxfax/" className="max-h-fit text-xl font-black">
                         <img src={logo2} className="max-h-12" alt="TaxFax logo" />
                     </Link>
                     {/* Links to other pages when screen is big */}
@@ -57,7 +57,7 @@ const Navbar = () => {
             </nav>
             <ul className={`text-2xl transition-all ease-in-out md:hidden ${menuOpen ? "":"hidden"}`}>
                 {pages.map((page) => <div key={page}>
-                    <Link to={`/${page}`} onClick={() => {setMenuOpen(false)}}><li className="px-6 py-1.5 hover:bg-gray-100">
+                    <Link to={`/cs132-taxfax/${page}`} onClick={() => {setMenuOpen(false)}}><li className="px-6 py-1.5 hover:bg-gray-100">
                         {fixLinkNames(page)}
                     </li></Link> <hr className="border mx-6" />
                 </div>)}
@@ -72,7 +72,7 @@ const NavBarLink = (props) => {
     return (
         <div>
             <NavLink
-                to={props.link}
+                to={`/cs132-taxfax/${props.link}`}
                 className={
                     ({ isActive }) => (isActive ? navLinkClasses.concat(" ", "md:bg-taxfaxblue-200"): navLinkClasses)
                 }>{props.name}</NavLink>
