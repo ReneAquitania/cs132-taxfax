@@ -1,21 +1,32 @@
 {
   "files": {
-    "main.css": "/cs132-taxfax/static/css/main.543f6b86.css",
-    "main.js": "/cs132-taxfax/static/js/main.253ec79d.js",
+    "main.css": "/cs132-taxfax/static/css/main.9cf9cfe7.css",
+    "main.js": "/cs132-taxfax/static/js/main.526e71d7.js",
     "static/media/rene.png": "/cs132-taxfax/static/media/rene.07cebaf487e704d673a3.png",
+    "static/media/lemmatization.png": "/cs132-taxfax/static/media/lemmatization.d4fa1b96004e88c03a5c.png",
+    "static/media/stop_word_removal.png": "/cs132-taxfax/static/media/stop_word_removal.b035121605cfbfbabfbe.png",
+    "static/media/lowercasing.png": "/cs132-taxfax/static/media/lowercasing.50cfcaf115142b8e8089.png",
     "static/media/taxfax-logo.png": "/cs132-taxfax/static/media/taxfax-logo.ad5eb766827bb099ca89.png",
     "static/media/taxfax-logo2.png": "/cs132-taxfax/static/media/taxfax-logo2.73ea32e3d413516def6f.png",
+    "static/media/frequent_words2.png": "/cs132-taxfax/static/media/frequent_words2.b75a4a9280756ab5576d.png",
     "static/media/lightbulb-icon.png": "/cs132-taxfax/static/media/lightbulb-icon.3ba0eac015fdc8661ab5.png",
     "static/media/res-q-icon.png": "/cs132-taxfax/static/media/res-q-icon.099fb1b4c924f8cf594f.png",
+    "static/media/frequent_words.png": "/cs132-taxfax/static/media/frequent_words.41dc1a2f25e8bfb2a036.png",
+    "static/media/dates_joined.png": "/cs132-taxfax/static/media/dates_joined.fd0f0b1bb02384e0cced.png",
+    "static/media/account_types.png": "/cs132-taxfax/static/media/account_types.8050de1583d785e4aff5.png",
+    "static/media/avg_follower_count.png": "/cs132-taxfax/static/media/avg_follower_count.1814138a1ab1dd4e5ac2.png",
+    "static/media/avg_follower_count2.png": "/cs132-taxfax/static/media/avg_follower_count2.e72bc51332eab9a5b862.png",
+    "static/media/dates_posted.png": "/cs132-taxfax/static/media/dates_posted.edc161e250a4d4462dcc.png",
+    "static/media/avg_follower_count3.png": "/cs132-taxfax/static/media/avg_follower_count3.054ab92ec2bbf5abc52f.png",
     "static/media/todo-icon.png": "/cs132-taxfax/static/media/todo-icon.d7e4a06ddafdc218fb7f.png",
     "static/media/hypo.png": "/cs132-taxfax/static/media/hypo.415f81ff092dcea415af.png",
     "static/media/nullhypo.png": "/cs132-taxfax/static/media/nullhypo.4632ca4291b0d441b197.png",
     "index.html": "/cs132-taxfax/index.html",
-    "main.543f6b86.css.map": "/cs132-taxfax/static/css/main.543f6b86.css.map",
-    "main.253ec79d.js.map": "/cs132-taxfax/static/js/main.253ec79d.js.map"
+    "main.9cf9cfe7.css.map": "/cs132-taxfax/static/css/main.9cf9cfe7.css.map",
+    "main.526e71d7.js.map": "/cs132-taxfax/static/js/main.526e71d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.543f6b86.css",
-    "static/js/main.253ec79d.js"
+    "static/css/main.9cf9cfe7.css",
+    "static/js/main.526e71d7.js"
   ]
 }
