@@ -1,12 +1,11 @@
 {
   "files": {
     "main.css": "/cs132-taxfax/static/css/main.93367859.css",
-    "main.js": "/cs132-taxfax/static/js/main.42e1b0c3.js",
+    "main.js": "/cs132-taxfax/static/js/main.e004746d.js",
     "static/media/hero.png": "/cs132-taxfax/static/media/hero.d2832b3c4456eab7ead0.png",
     "static/media/ian.png": "/cs132-taxfax/static/media/ian.a4107612066602a00497.png",
     "static/media/raco.png": "/cs132-taxfax/static/media/raco.3061dc69793b8ea48dd4.png",
     "static/media/imbento.png": "/cs132-taxfax/static/media/imbento.3da9222d529ec1b97901.png",
-    "static/media/fakereceipt.png": "/cs132-taxfax/static/media/fakereceipt.7dcc4f1516340a149f71.png",
     "static/media/rene.png": "/cs132-taxfax/static/media/rene.07cebaf487e704d673a3.png",
     "static/media/lemmatization.png": "/cs132-taxfax/static/media/lemmatization.d4fa1b96004e88c03a5c.png",
     "static/media/topic1.png": "/cs132-taxfax/static/media/topic1.f094192d98896f106825.png",
@@ -16,6 +15,7 @@
     "static/media/lowercasing.png": "/cs132-taxfax/static/media/lowercasing.50cfcaf115142b8e8089.png",
     "static/media/failitr.png": "/cs132-taxfax/static/media/failitr.8494c3a72e391096d2b7.png",
     "static/media/taxfax-logo.png": "/cs132-taxfax/static/media/taxfax-logo.ad5eb766827bb099ca89.png",
+    "static/media/fakereceipt.png": "/cs132-taxfax/static/media/fakereceipt.cc37150c6768048e0a28.png",
     "static/media/moralturpitude.png": "/cs132-taxfax/static/media/moralturpitude.8983eaf0c5f9ea27d438.png",
     "static/media/blackprop.png": "/cs132-taxfax/static/media/blackprop.636493b35b23b30bc670.png",
     "static/media/in1987.png": "/cs132-taxfax/static/media/in1987.f8887f620771dccd6716.png",
@@ -38,10 +38,10 @@
     "static/media/nullhypo.png": "/cs132-taxfax/static/media/nullhypo.4632ca4291b0d441b197.png",
     "index.html": "/cs132-taxfax/index.html",
     "main.93367859.css.map": "/cs132-taxfax/static/css/main.93367859.css.map",
-    "main.42e1b0c3.js.map": "/cs132-taxfax/static/js/main.42e1b0c3.js.map"
+    "main.e004746d.js.map": "/cs132-taxfax/static/js/main.e004746d.js.map"
   },
   "entrypoints": [
     "static/css/main.93367859.css",
-    "static/js/main.42e1b0c3.js"
+    "static/js/main.e004746d.js"
   ]
 }
