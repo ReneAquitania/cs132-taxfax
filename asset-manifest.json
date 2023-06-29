@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cs132-taxfax/static/css/main.1f1e9aa4.css",
-    "main.js": "/cs132-taxfax/static/js/main.d0f48c17.js",
+    "main.css": "/cs132-taxfax/static/css/main.93367859.css",
+    "main.js": "/cs132-taxfax/static/js/main.a6b1266e.js",
     "static/media/hero.png": "/cs132-taxfax/static/media/hero.d2832b3c4456eab7ead0.png",
     "static/media/ian.png": "/cs132-taxfax/static/media/ian.a4107612066602a00497.png",
     "static/media/raco.png": "/cs132-taxfax/static/media/raco.3061dc69793b8ea48dd4.png",
@@ -11,6 +11,7 @@
     "static/media/lemmatization.png": "/cs132-taxfax/static/media/lemmatization.d4fa1b96004e88c03a5c.png",
     "static/media/topic1.png": "/cs132-taxfax/static/media/topic1.f094192d98896f106825.png",
     "static/media/topics.png": "/cs132-taxfax/static/media/topics.32df7124065f343fddbf.png",
+    "static/media/spreadsheet.png": "/cs132-taxfax/static/media/spreadsheet.3a16f9234c1a3f87ab34.png",
     "static/media/stop_word_removal.png": "/cs132-taxfax/static/media/stop_word_removal.b035121605cfbfbabfbe.png",
     "static/media/lowercasing.png": "/cs132-taxfax/static/media/lowercasing.50cfcaf115142b8e8089.png",
     "static/media/failitr.png": "/cs132-taxfax/static/media/failitr.8494c3a72e391096d2b7.png",
@@ -36,11 +37,11 @@
     "static/media/hypo.png": "/cs132-taxfax/static/media/hypo.415f81ff092dcea415af.png",
     "static/media/nullhypo.png": "/cs132-taxfax/static/media/nullhypo.4632ca4291b0d441b197.png",
     "index.html": "/cs132-taxfax/index.html",
-    "main.1f1e9aa4.css.map": "/cs132-taxfax/static/css/main.1f1e9aa4.css.map",
-    "main.d0f48c17.js.map": "/cs132-taxfax/static/js/main.d0f48c17.js.map"
+    "main.93367859.css.map": "/cs132-taxfax/static/css/main.93367859.css.map",
+    "main.a6b1266e.js.map": "/cs132-taxfax/static/js/main.a6b1266e.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f1e9aa4.css",
-    "static/js/main.d0f48c17.js"
+    "static/css/main.93367859.css",
+    "static/js/main.a6b1266e.js"
   ]
 }
