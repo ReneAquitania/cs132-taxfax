@@ -16,10 +16,12 @@ const Overview = () => {
                         <img src={lightbulb} alt="lightbulb" className="h-12"/>
                     </div>
                     <p className="pt-2 text-white text-sm">
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-                        nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-                        Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper
-                        suscipit lobortis
+                        With the amount of increasing disinformation being spread in the internet nowadays, 
+                        we want to make sure that with facts and data, the truth is what arrives to the screens of the people.
+                        <br /><br />The issue about the Marcos estate's 203 billion PHP nonpayment has been hotly debated. In Twitter, 
+                        each supporter of BBM would spread their own claims about the topic, whether based on some other tweet of 
+                        disinformation or their own distortion of the truth. Among those that do spread disinformation about BBM's 
+                        203 billion estate tax, is there a common premise used by these supporters?
                     </p>
                 </div>
                 <div className="rounded-3xl py-3 px-8 border-[5px] border-taxfaxblue-300 max-md:mt-6 overflow-x-auto hover:scale-105 transition-all ease-in-out">
@@ -27,7 +29,7 @@ const Overview = () => {
                         <p className="text-2xl text-taxfaxblue-300 font-extrabold">Research <br className="max-md:hidden"/>Question</p>
                         <img src={question} alt="research question bubble" className="h-12 pl-4"/>
                     </div>
-                    <p className="text-xs">
+                    <p>
                         Do BBM Supporters that spread disinformation on Twitter about 
                         BBM's estate tax case use a common premise to defend him?
                     </p>
@@ -57,17 +59,16 @@ const Overview = () => {
             </div>
             <div className="mt-6 px-8 py-3 md:flex border-[5px] gap-4 border-taxfaxblue-300 md:gap-x-10 rounded-3xl max-h-min hover:scale-105 transition-all ease-in-out">
                 <div className="flex gap-4 items-center max-md:justify-center">
-                    <img src={todo} alt="action plan icon" className="h-12 border-2 border-red-900"/>
+                    <img src={todo} alt="action plan icon" className="h-12"/>
                     <div>
-                        <p className="text-3xl text-taxfaxred-300 align-middle font-extrabold border-2 border-red-900">Action Plan</p>  
+                        <p className="text-3xl text-taxfaxred-300 max-w-min align-middle font-extrabold">Action Plan / Methodology</p>  
                     </div>
                 </div>
                 <div>
-                    <p>1) something Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-                        nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-                        Ut wisi enim ad minim veniam,</p>
-                    <p>2) we'll</p>
-                    <p>3) do fr</p>
+                    <p className="text-xs">1) Collect tweets from 2016-2022 regarding this issue. Preprocess this data to streamline the data analysis.</p>
+                    <p className="text-xs">2) Convert these tweets into a Corpus Dictionary to be used by a statistical model.</p>
+                    <p className="text-xs">3) Using a statistical model (Latend Dirichlet Allocation), determine the groups formed through these tweets</p>
+                    <p className="text-xs">4) Determine, through human judgment, what we think are the top reasons BBM supporters use to excuse the nonpayment.</p>
                 </div>
             </div>
         </div>

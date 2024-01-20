@@ -28,7 +28,7 @@ const Footer = () => {
                         <a href="mailto:cs132taxfax@gmail.com">Contact Us</a>
                     </button>
                     <br /><br />
-                    <p className="text-xs text-gray-500">(C) Something. All rights reserved</p>
+                    <p className="text-xs text-gray-500">(C) TaxFax CS 132. All rights reserved</p>
                 </div>
             </div>
         </div>
