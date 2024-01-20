@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cs132-taxfax/static/css/main.93367859.css",
-    "main.js": "/cs132-taxfax/static/js/main.b45cd1fb.js",
+    "main.css": "/cs132-taxfax/static/css/main.54b95ddb.css",
+    "main.js": "/cs132-taxfax/static/js/main.64236284.js",
     "static/media/hero.png": "/cs132-taxfax/static/media/hero.d2832b3c4456eab7ead0.png",
     "static/media/ian.png": "/cs132-taxfax/static/media/ian.a4107612066602a00497.png",
     "static/media/raco.png": "/cs132-taxfax/static/media/raco.3061dc69793b8ea48dd4.png",
@@ -37,11 +37,11 @@
     "static/media/hypo.png": "/cs132-taxfax/static/media/hypo.415f81ff092dcea415af.png",
     "static/media/nullhypo.png": "/cs132-taxfax/static/media/nullhypo.4632ca4291b0d441b197.png",
     "index.html": "/cs132-taxfax/index.html",
-    "main.93367859.css.map": "/cs132-taxfax/static/css/main.93367859.css.map",
-    "main.b45cd1fb.js.map": "/cs132-taxfax/static/js/main.b45cd1fb.js.map"
+    "main.54b95ddb.css.map": "/cs132-taxfax/static/css/main.54b95ddb.css.map",
+    "main.64236284.js.map": "/cs132-taxfax/static/js/main.64236284.js.map"
   },
   "entrypoints": [
-    "static/css/main.93367859.css",
-    "static/js/main.b45cd1fb.js"
+    "static/css/main.54b95ddb.css",
+    "static/js/main.64236284.js"
   ]
 }
